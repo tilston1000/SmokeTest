@@ -1,0 +1,10 @@
+C:\Users\tilst\Projects\WordPressAutomation\WordPressAutomation\bin\Debug\WordPressAutomation.dll
+C:\Users\tilst\Projects\WordPressAutomation\WordPressAutomation\bin\Debug\WordPressAutomation.pdb
+C:\Users\tilst\Projects\WordPressAutomation\WordPressAutomation\bin\Debug\WebDriver.dll
+C:\Users\tilst\Projects\WordPressAutomation\WordPressAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\tilst\Projects\WordPressAutomation\WordPressAutomation\bin\Debug\WebDriver.xml
+C:\Users\tilst\Projects\WordPressAutomation\WordPressAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\tilst\Projects\WordPressAutomation\WordPressAutomation\obj\Debug\WordPressAutomation.csprojResolveAssemblyReference.cache
+C:\Users\tilst\Projects\WordPressAutomation\WordPressAutomation\obj\Debug\WordPressAutomation.csproj.CoreCompileInputs.cache
+C:\Users\tilst\Projects\WordPressAutomation\WordPressAutomation\obj\Debug\WordPressAutomation.dll
+C:\Users\tilst\Projects\WordPressAutomation\WordPressAutomation\obj\Debug\WordPressAutomation.pdb

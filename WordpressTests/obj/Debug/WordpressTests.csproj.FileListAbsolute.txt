@@ -1,0 +1,17 @@
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\bin\Debug\WordpressTests.dll
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\bin\Debug\WordpressTests.pdb
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\bin\Debug\WordPressAutomation.dll
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\bin\Debug\WebDriver.dll
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\bin\Debug\WordPressAutomation.pdb
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\bin\Debug\WebDriver.xml
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\obj\Debug\WordpressTests.csprojResolveAssemblyReference.cache
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\obj\Debug\WordpressTests.csproj.CoreCompileInputs.cache
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\obj\Debug\WordpressTests.dll
+C:\Users\tilst\Projects\WordPressAutomation\WordpressTests\obj\Debug\WordpressTests.pdb
